@@ -51,7 +51,8 @@ public class Maps {
                 }
 
             }
-
+            System.out.println("minimum temperature: " + min);
+            System.out.println("maximum temperature: " + max);
 
         }
 
@@ -61,4 +62,6 @@ public class Maps {
 
 
     }
+
+
 }
